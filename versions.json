@@ -1,5 +1,6 @@
 {
   "latest": "https://raw.githubusercontent.com/PlaceOS/rest-api/master/OPENAPI_DOC.yml",
+  "placeos-2.2503.1": "https://raw.githubusercontent.com/PlaceOS/rest-api/f4beea6ab78442413ee2289a245adb200a40fa3f/OPENAPI_DOC.yml",
   "placeos-2.2502.2": "https://raw.githubusercontent.com/PlaceOS/rest-api/adabe7159836e882a9760c23f7fe4c38d0c34bb9/OPENAPI_DOC.yml",
   "placeos-2.2501.2": "https://raw.githubusercontent.com/PlaceOS/rest-api/e7293ace69668d66f7b57315d58c0d64b1c024d2/OPENAPI_DOC.yml",
   "placeos-2.2501.1": "https://raw.githubusercontent.com/PlaceOS/rest-api/d77d1b7e6c5392d4810c1a1b4b1653500687484c/OPENAPI_DOC.yml",
